@@ -5,7 +5,7 @@ It is maintained to strengthen problem-solving skills and prepare for campus pla
 ##  Objectives
 - Build strong fundamentals in Data Structures and Algorithms
 - Improve logical thinking and coding efficiency
-- Prepare for service-based company interviews
+- Prepare for service-based company interviews(TCS)
 
 ##  Topics Covered
 - Arrays
