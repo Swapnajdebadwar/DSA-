@@ -10,5 +10,6 @@ public class While {
             System.out.println(counter+"I love holi event");
             counter++;
         }
+        sc.close();
     }
 }

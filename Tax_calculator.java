@@ -16,6 +16,8 @@ public class Tax_calculator {
          }
          
          System.out.println("Your tax is "+tax);
+         sc.close();
         
     }
+    
 }
