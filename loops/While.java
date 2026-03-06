@@ -7,7 +7,7 @@ public class While {
         int counter = 1;
         
         while(counter<=range){
-            System.out.println(counter+"I love holi event");
+            System.out.println(counter +"I love holi event");
             counter++;
         }
         sc.close();
